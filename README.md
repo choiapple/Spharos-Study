@@ -1,7 +1,7 @@
 # Spharos-Study
 스파로스 아카데미에서 배운것들 기록
-2022-7-19 카카오 협업 툴 특강
-svn vs git
+- 2022-7-19 카카오 협업 툴 특강
+- svn vs git
 - local remote 차이
 
 version control
