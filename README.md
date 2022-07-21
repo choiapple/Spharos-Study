@@ -54,3 +54,8 @@ orange-> blue-> red -> pink -> green -> pupple -> yellow
 
 * 도서 관리 시스템 설계하기 *
 
+
+- 2022-7-21
+- 아이디어톤
+- 피그마 사용해서 실현되는걸 보여줌 (https://www.figma.com/file/qH5XfTnawfkcFHed8nOmFe/Make-It-Nara?node-id=0%3A1)
+
