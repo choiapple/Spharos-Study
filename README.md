@@ -56,6 +56,6 @@ orange-> blue-> red -> pink -> green -> pupple -> yellow
 
 
 - 2022-7-21
-- 아이디어톤
+- 아이디어톤(금융과 관련된 프로젝트를 함)
 - 피그마 사용해서 실현되는걸 보여줌 (https://www.figma.com/file/qH5XfTnawfkcFHed8nOmFe/Make-It-Nara?node-id=0%3A1)
 
