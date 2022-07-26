@@ -65,3 +65,8 @@ orange-> blue-> red -> pink -> green -> pupple -> yellow
 
 ![아이디어톤 수상](https://user-images.githubusercontent.com/79374648/180401932-8004b787-87cd-4162-a000-a5302b060c34.jpg)
 
+
+- 2022-7-25
+- mysql을 사용하는데 처음에는 어려움을 겪었지만 사용하다보니 익숙해졌다.
+- css를 배울때 빨라서 힘들었지만 나중에 다 적고 다시보니 이해가 갔다.
+
